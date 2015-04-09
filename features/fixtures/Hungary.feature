@@ -1,7 +1,7 @@
 Feature: Fikstury dla tabeli Hungary
 
   Scenario: Lista fixtur z tabeli Hungary
-    Given I am on "Hungary.html"
+    Given I am on "hungary.html"
      Then I should see "Budapest"
       And I should see "1733685"
      Then I should see "Pec"
