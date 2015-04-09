@@ -1,0 +1,8 @@
+#
+# Klasa: Notebook
+# ceny
+#
+
+- { name: "MSI", price: 3600 }
+- { name: "Samsung", price: 3400 }
+- { name: "Asus", price: 2500 }

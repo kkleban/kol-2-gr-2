@@ -1,0 +1,8 @@
+#
+# Klasa: Antybiotyki
+# Rozklasyfikowane antybiotyki
+#
+
+- { name: "Amikacin", classification: "Aminoglycosides" }
+- { name: "Geldanamycin", classification: "Ansamycins" }
+- { name: "Loracarbef", classification: "Carbacephem" }
