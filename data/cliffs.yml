@@ -1,8 +1,0 @@
-#
-# Klasa: Cliff
-# wysokość w metrach wybranych klifów w Europie
-#
-
-- { name: "Hornelen", height: 860 }
-- { name: "Cape Enninberg", height: 750 }
-- { name: "Preikestolen", height: 604 }

@@ -1,0 +1,4 @@
+## YAML Template.
+- { name: "Wilno", population: 527930 }
+- { name: "Kowno", population: 307498 }
+- { name: "Kłajpeda", population: 158891 }
