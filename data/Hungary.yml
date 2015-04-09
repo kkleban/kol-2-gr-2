@@ -1,0 +1,8 @@
+#
+# Klasa: Hungary
+# Cities in Hungary
+#
+
+- { name: "Budapest", population: 1733685 }
+- { name: "Pec", population: 157721  }
+- { name: "Segedyn", population: 170285 }
