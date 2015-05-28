@@ -1,0 +1,4 @@
+## YAML Template.
+- { name: "Kopenhaga", population: 5991 }
+- { name: "Aarhus", population: 3672 }
+- { name: "Odense", population: 2011 }
