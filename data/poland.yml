@@ -1,0 +1,4 @@
+## YAML Template.
+- { name: "Warszawa", population: 123 }
+- { name: "Gdansk", population: 234 }
+- { name: "Lublin", population: 345 }
