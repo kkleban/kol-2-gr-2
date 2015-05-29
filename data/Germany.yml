@@ -1,0 +1,8 @@
+#
+# Klasa: Germany
+# Miasta w Niemczech
+#
+
+- { name: "Berlin", population: 432234 }
+- { name: "Dortmund", population: 234123  }
+- { name: "Munchen", population: 170285 }
