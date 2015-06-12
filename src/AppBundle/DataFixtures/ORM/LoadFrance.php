@@ -23,7 +23,7 @@ class LoadFrance implements FixtureInterface
             $france = new France();
             $france->setName($item['name']);
             $france->setArea($item['area']);
-            $manager->persist($area);
+            $manager->persist($france);
         }
 
         $manager->flush();
