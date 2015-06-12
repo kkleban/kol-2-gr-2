@@ -1,11 +1,11 @@
-Feature: Fikstury dla tabeli Belgium
+Feature: Fikstury dla tabeli France
 
-  Scenario: Lista fixtur z tabeli Belgium
-    Given I am on "Belgium.html"
-     Then I should see "Antwerp"
-      And I should see "507"
-     Then I should see "Ghent"
-      And I should see "248"
-     Then I should see "Charleroi"
-      And I should see "203"
+  Scenario: Lista fixtur z tabeli France
+    Given I am on "France.html"
+     Then I should see "Paris"
+      And I should see "105"
+     Then I should see "Nice"
+      And I should see "72"
+     Then I should see "Bordeaux"
+      And I should see "49"
 
